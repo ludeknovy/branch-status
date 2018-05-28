@@ -1,3 +1,2 @@
 MESSAGE.eap.1.2.50.blocked = We are working hard on releasing Kotlin 1.2.50 RC.\nPlease push your commits after it will be released.
-1.2.50 = eap.1.2.50.blocked
 test.1.2.50 = eap.1.2.50.blocked
