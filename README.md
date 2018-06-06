@@ -1,3 +1,5 @@
+[![internal JetBrains project](http://jb.gg/badges/internal-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
 # :snowflake: Kotlin Branch Status
 
 [`status.txt`](/status.txt) contains the list of locked branches in the [Kotlin](https://github.com/JetBrains/kotlin) project.
