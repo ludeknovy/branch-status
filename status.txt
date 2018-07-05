@@ -1,6 +1,3 @@
 MESSAGE.eap.1.2.50.blocked = 1.2.50 RC is out, and the branch has been stabilized.\nPush to it only if/when you got an approval (see #kotlin-release).
 1.2.50 = eap.1.2.50.blocked
 test.1.2.50 = eap.1.2.50.blocked
-
-MESSAGE.eap.1.2.60.blocked = We are working hard on releasing Kotlin 1.2.60 EAP 2.\nPlease push your commits after it is released.
-1.2.60 = eap.1.2.60.blocked
