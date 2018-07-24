@@ -4,3 +4,6 @@ test.1.2.50 = eap.1.2.50.blocked
 
 MESSAGE.eap.1.2.60.needs.approve = Please make sure you got the approval of @kt-approvers before pushing your commit! See #kotlin-release.
 1.2.60 = eap.1.2.60.needs.approve
+
+MESSAGE.1.3.M1.freeze = 1.3-M1 is being released, please hold from commits unless they are critical and approved by @kt-approvers in #kotlin-release
+1.3-M1 = MESSAGE.1.3.M1.freeze
