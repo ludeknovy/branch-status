@@ -13,3 +13,6 @@ MESSAGE.1.3.M2.freeze = 1.3-M2 is finalized, please hold from commits unless the
 
 MESSAGE.1.3.0.freeze = 1.3.10 is for critical fixes only. Please hold from commits unless they are critical and approved by @kt-approvers in #kotlin-release
 1.3.0 = 1.3.0.freeze
+
+MESSAGE.1.3.20.freeze = 1.3.20 is being released, please hold from commits until EAP-3 is finished
+1.3.20 = 1.3.20.freeze
