@@ -28,3 +28,6 @@ MESSAGE.1.3.50.freeze = 1.3.50 is in stabilization period for eap2. Please make 
 
 MESSAGE.1.3.60.freeze = 1.3.60 is in stabilization period for eap3. Please make sure you are pushing commits which are essential for the eap!
 1.3.60 = 1.3.60.freeze
+
+MESSAGE.1.3.70.freeze = 1.3.70 is in stabilization period for EAP 2. Please make sure you are pushing commits which are essential for the EAP!
+1.3.70 = 1.3.70.freeze
