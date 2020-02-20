@@ -29,5 +29,5 @@ MESSAGE.1.3.50.freeze = 1.3.50 is in stabilization period for eap2. Please make 
 MESSAGE.1.3.60.freeze = 1.3.60 is in stabilization period for eap3. Please make sure you are pushing commits which are essential for the eap!
 1.3.60 = 1.3.60.freeze
 
-MESSAGE.1.3.70.freeze = EAP 2 is released, and the 1.2.70 branch became indefinitely frozen.\nYou must get an approval in the #kotlin-release Slack channel before pushing commits to this branch.
+MESSAGE.1.3.70.freeze = EAP 3 is released, and the 1.2.70 branch became indefinitely frozen.\nYou must get an approval in the #kotlin-release Slack channel before pushing commits to this branch.
 1.3.70 = 1.3.70.freeze
