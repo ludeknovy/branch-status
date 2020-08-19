@@ -38,5 +38,5 @@ MESSAGE.1.4-M2.freeze = 1.4-M2 is in stabilization period.\nYou must get an appr
 MESSAGE.1.4-M3.freeze = 1.4-M3 is in stabilization period. Please make sure you got the approval of @kt-approvers in #kotlin-release before pushing your commit!
 1.4-M3 = 1.4-M3.freeze
 
-MESSAGE.1.4.0.freeze = 1.4-M3 was branched. This branch would be used for 1.4.0-rc release. Please make sure you got the approval of @kt-approvers in #kotlin-release before pushing your commit!
+MESSAGE.1.4.0.freeze = This branch would be used for 1.4.10 release. Please make sure you got the approval of @kt-approvers in #kotlin-release before pushing your commit!
 1.4.0 = 1.4.0.freeze
