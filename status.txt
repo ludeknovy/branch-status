@@ -40,3 +40,6 @@ MESSAGE.1.4-M3.freeze = 1.4-M3 is in stabilization period. Please make sure you 
 
 MESSAGE.1.4.0.freeze = This branch would be used for 1.4.10 release. Please make sure you got the approval of @kt-approvers in #kotlin-release before pushing your commit!
 1.4.0 = 1.4.0.freeze
+
+MESSAGE.1.4.20.freeze = This branch is temporarily frozen for 1.4.20-M1 release. Please make sure you got the approval of @kt-approvers in #kotlin-release before pushing your commit!
+1.4.20 = 1.4.20.freeze
