@@ -49,3 +49,6 @@ MESSAGE.1.4.30-M1.freeze = 1.4.30-M1 is released, and the 1.4.30-M1 branch becam
 
 MESSAGE.1.4.30.freeze = 1.4.30 is in stabilization period. Please make sure you got the approval of @kt-approvers in #kotlin-release before pushing your commit!
 1.4.30 = 1.4.30.freeze
+
+MESSAGE.1.4.30-RC.freeze = 1.4.30-RC is in stabilization period. Please make sure you got the approval of @kt-approvers in #kotlin-release before pushing your commit!
+1.4.30-RC = 1.4.30-RC.freeze
