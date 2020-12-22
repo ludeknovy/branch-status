@@ -44,5 +44,8 @@ MESSAGE.1.4.0.freeze = This branch would be used for 1.4.10 release. Please make
 MESSAGE.1.4.20.freeze = 1.4.20 is in stabilization period for 1.4.20. Please make sure you have the approval of @kt-approvers in #kotlin-release before pushing your commit!
 1.4.20 = 1.4.20.freeze
 
-MESSAGE.1.4.30-M1.freeze = 1.4.30-M1 is in stabilization period. Please make sure you got the approval of @kt-approvers in #kotlin-release before pushing your commit!
+MESSAGE.1.4.30-M1.freeze = 1.4.30-M1 is released, and the 1.4.30-M1 branch became indefinitely froze.\nYou must get an approval in the #kotlin-release Slack channel before pushing commits to this branch.
 1.4.30-M1 = 1.4.30-M1.freeze
+
+MESSAGE.1.4.30.freeze = 1.4.30 is in stabilization period. Please make sure you got the approval of @kt-approvers in #kotlin-release before pushing your commit!
+1.4.30 = 1.4.30.freeze
