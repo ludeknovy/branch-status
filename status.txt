@@ -52,3 +52,6 @@ MESSAGE.1.4.30.freeze = 1.4.30 is in stabilization period. Please make sure you 
 
 MESSAGE.1.4.30-RC.freeze = 1.4.30-RC is in stabilization period. Please make sure you got the approval of @kt-approvers in #kotlin-release before pushing your commit!
 1.4.30-RC = 1.4.30-RC.freeze
+
+MESSAGE.1.5.0-M1.freeze = 1.5.0-M1 is in stabilization period. Please make sure you got the approval of @kt-approvers in #kotlin-release before pushing your commit!
+1.5.0-M1 = 1.5.0-M1.freeze
